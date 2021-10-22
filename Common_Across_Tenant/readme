@@ -1,0 +1,15 @@
+Common Deployment across Tenants. To be Executed on each Tenant Databases.
+
+1.Once 2_create_dias_user_icm_db.sql execution completed successfully 
+2 Login to DataArch User/User have right to Read/write acess  .
+  Exceute following .
+  1.ICMPSS.sql
+  2.ICM_Tables_Creation.sql
+  3_VCL_to_TAB_Insertion.sql
+  4_CLL_Insertion.sql
+  5_I_table_Creation.sql
+  6_Stored_Procedure.sql
+  7_View_Creation.sql
+  8_Indexes.sql
+  9_Sequences.sql
+  
